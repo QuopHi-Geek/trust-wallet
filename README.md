@@ -35,7 +35,7 @@ Project contains how to set up the environment and run the automated tests for a
 
 *   APK file in the project is a dummy since actual APK file is large for git.
 
-*   Replace "app.apk" in the directory "/src/test/resources/app.apk" with the actual APK
+*   Replace "app.apk" in the directory "/src/test/resources/app.apk" with the actual Trust wallet APK
 
 *   In the DriverUtils class. Modify the initializeDriver() to suit testing environment. Modify app filepath and other capabilities to suit your testing environment.
 
