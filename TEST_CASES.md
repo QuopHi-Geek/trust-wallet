@@ -1,9 +1,9 @@
 
 ### TEST CASE - CREATE NEW WALLET
 
-- Verify Successfully create a new wallet with valid inputs.
+- Verify Successfully create a new wallet with valid inputs. 
 
-- Verify recovery phrase generation and display
+- Verify recovery success and display main wallet page
 
 - Verify  passcode validation and check during creation
 
@@ -25,8 +25,8 @@
 
 - Verify alternate options between fingerprints and passcode.
 
-- Verify sessions timeouts and app lock.
+- Verify session timeouts and app screen locks.
 
 - Verify restrictions / lock for many wrong passcode attempts
 
-- Verify restrictions are lifted after lock time limit
+- Verify restrictions are lifted after the lock time limit expires
